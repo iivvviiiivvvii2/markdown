@@ -23,3 +23,4 @@ Inline-style:
 
 [ <img src="https://img3.fonwall.ru/o/ki/item-forest-florals.jpeg?auto=compress&fit=resize&w=1200&display=large&nsfw=false" width="200" height="200">](https://yandex.ru/video/preview/6062354020524960223)
 
+![альтернативный текст](https://media.tproger.ru/uploads/2017/08/ezgif.com-video-to-gif-6.gif).
