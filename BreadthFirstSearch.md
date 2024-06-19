@@ -26,6 +26,6 @@
 
 Это происходит приблизительно так:
 
-![альтернативный текст](https://media.tproger.ru/uploads/2017/08/ezgif.com-video-to-gif-6.gif).
+
 
 
